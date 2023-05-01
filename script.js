@@ -1,9 +1,9 @@
-const form = document.querySelector(".form");
-const email = document.querySelector(".email");
-const error = document.querySelector(".error");
-const errorEmpty = document.querySelector(".error-empty");
-const validRegex =
-  /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+const form = document.querySelector(".form"),
+  email = document.querySelector(".email"),
+  error = document.querySelector(".error"),
+  errorEmpty = document.querySelector(".error-empty"),
+  validRegex =
+    /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 
 email.addEventListener("blur", function (e) {
   if (!email.value) {
