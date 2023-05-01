@@ -29,4 +29,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lafistik/ping-coming-soon-page-master]
-- Live Site URL: [https://lafistik.github.com/ping-coming-soon-page-master]
+- Live Site URL: [https://lafistik.github.io/ping-coming-soon-page-master]
